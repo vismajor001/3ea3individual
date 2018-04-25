@@ -1,0 +1,100 @@
+866.0,costumes,2018-02-11,spiderman
+266.97,costumes,2018-03-13,batman
+436.58,loot box,2018-12-09,ironman
+904.56,hemlet,2018-07-11,batman
+18.41,weapon,2018-10-11,ironman
+127.27,loot box,2018-08-26,superman
+741.55,weapon,2018-06-30,spiderman
+25.47,loot box,2018-04-19,ironman
+250.11,armor,2018-05-21,spiderman
+182.15,hemlet,2018-10-09,ironman
+349.22,armor,2018-05-28,batman
+54.89,hemlet,2018-06-28,batman
+692.33,potion,2018-02-29,superman
+226.33,loot box,2018-10-09,spiderman
+463.43,potion,2018-10-04,superman
+813.78,material,2018-04-12,superman
+481.41,loot box,2018-07-18,superman
+422.7,costumes,2018-07-06,spiderman
+169.85,material,2018-08-12,ironman
+200.6,armor,2018-10-27,spiderman
+218.47,potion,2018-02-09,spiderman
+533.47,loot box,2018-02-04,batman
+221.88,armor,2018-07-26,ironman
+976.88,potion,2018-09-04,superman
+972.1,material,2018-01-20,superman
+145.31,weapon,2018-05-16,ironman
+644.68,weapon,2018-09-22,batman
+527.29,armor,2018-08-04,ironman
+739.43,costumes,2018-06-03,ironman
+850.11,loot box,2018-06-30,ironman
+88.77,material,2018-07-11,superman
+498.06,weapon,2018-09-04,batman
+446.51,costumes,2018-03-12,ironman
+172.09,potion,2018-07-20,batman
+420.68,armor,2018-08-30,ironman
+61.93,costumes,2018-05-23,ironman
+764.51,weapon,2018-10-03,ironman
+142.6,weapon,2018-12-19,batman
+124.88,loot box,2018-09-30,superman
+184.03,weapon,2018-03-25,superman
+246.47,potion,2018-07-15,batman
+815.17,material,2018-09-27,superman
+709.33,loot box,2018-01-06,spiderman
+670.04,potion,2018-04-19,spiderman
+547.65,loot box,2018-09-08,superman
+686.61,costumes,2018-02-16,superman
+456.59,weapon,2018-04-14,superman
+966.86,hemlet,2018-04-12,spiderman
+782.76,material,2018-11-16,spiderman
+943.62,costumes,2018-01-17,spiderman
+542.81,weapon,2018-07-29,ironman
+655.36,weapon,2018-10-03,ironman
+394.63,material,2018-08-13,spiderman
+690.28,weapon,2018-10-14,superman
+759.3,potion,2018-03-21,ironman
+325.96,armor,2018-09-08,batman
+261.46,loot box,2018-07-18,spiderman
+827.75,loot box,2018-03-26,ironman
+813.85,weapon,2018-04-02,superman
+59.92,potion,2018-03-13,spiderman
+153.37,hemlet,2018-01-08,superman
+56.0,weapon,2018-07-24,spiderman
+464.16,weapon,2018-04-20,spiderman
+52.95,loot box,2018-03-16,superman
+64.28,hemlet,2018-10-26,superman
+545.93,material,2018-10-01,superman
+540.79,potion,2018-12-23,superman
+11.9,hemlet,2018-11-30,ironman
+391.35,loot box,2018-03-15,superman
+191.07,potion,2018-02-01,spiderman
+254.27,loot box,2018-03-29,ironman
+832.06,potion,2018-01-05,superman
+411.55,weapon,2018-12-19,ironman
+989.2,weapon,2018-07-10,spiderman
+49.17,potion,2018-07-23,batman
+719.1,loot box,2018-10-10,batman
+14.05,hemlet,2018-05-30,superman
+27.5,hemlet,2018-02-21,spiderman
+667.04,material,2018-09-01,batman
+358.6,hemlet,2018-05-28,spiderman
+186.95,material,2018-03-31,ironman
+748.67,material,2018-08-24,spiderman
+11.36,weapon,2018-02-12,spiderman
+955.69,costumes,2018-03-30,ironman
+328.17,loot box,2018-04-20,superman
+660.88,material,2018-11-29,batman
+868.87,costumes,2018-07-31,ironman
+968.3,material,2018-07-19,spiderman
+52.87,potion,2018-07-28,ironman
+421.05,hemlet,2018-11-05,ironman
+535.47,hemlet,2018-02-30,spiderman
+139.77,armor,2018-01-03,batman
+803.73,material,2018-04-25,superman
+268.75,hemlet,2018-10-08,batman
+918.72,weapon,2018-03-12,ironman
+0.07,material,2018-04-12,spiderman
+235.13,material,2018-12-27,batman
+117.25,hemlet,2018-10-19,batman
+745.11,weapon,2018-06-18,spiderman
+349.48,armor,2018-04-21,spiderman
